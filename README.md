@@ -8,5 +8,5 @@ pkg install bash
 pkg install toilet
 pkg install figlet
 pkg install python
-git clone https://github.com/ZEKBARU75/ZEKBARU75/tree/main?search=1
+git clone https://github.com/ZEKBARU75/ZEKBARU75
 sh scgabut.sh
